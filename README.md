@@ -24,10 +24,10 @@ This project is an interactive Power BI dashboard designed to analyze sales and 
 - Filter-based exploration enables quick decision-making
 
 ## Dashboard Preview
-![Executive Overview](executive_overview.png)
-![Regional Performance](regional_performance.png)
-![Sales Trend](sales_trend.png)
-![Filters Page](filters_page.png)
+[Executive Overview]<img width="577" height="324" alt="executive overview" src="https://github.com/user-attachments/assets/ebed5785-8ee4-4b8e-b904-00234e2a9dde" />
+
+[Filters Page]<img width="574" height="323" alt="filters" src="https://github.com/user-attachments/assets/359fcb56-544f-4771-8828-21356374f69a" />
+
 
 ## How to Use
 1. Download the `.pbix` file
